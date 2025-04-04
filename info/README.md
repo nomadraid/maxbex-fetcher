@@ -120,22 +120,21 @@ Failures of today's data platforms:
 2. Coupled pipeline decomposition
 3. Siloed and hyper-specialized ownership
 
-The next enterprise data platform architecture embraces the ubiquitous data with a distributed Data Mesh.
-The paradigm shift is in the convergence of:
-0. Data
-1. Distributed Domain Driven Architecture
-2. Product Thinking with Data
-3. Self-serve Platform Design
+The next enterprise data platform architecture embraces the ubiquitous data with a distributed Data Mesh. The paradigm shift is in the convergence of:
+1. Data
+2. Distributed Domain Driven Architecture
+3. Product Thinking with Data
+4. Self-serve Platform Design
 
 
-1. Data and distributed domain driven architecture convergence
+##### Data and distributed domain driven architecture convergence
 ! The architectural quantum in a domain oriented data platform, is a domain and not the pipeline stage.
 - Domain oriented data decomposition and ownership
 - Source oriented domain data
 - Consumer oriented and shared domain data
 - Distributed pipelines as domain internal implementation
 
-2. Data and product thinking convergence
+##### Data and product thinking convergence
 - Domain data as a product
 - Discoverable
 - Addressable
@@ -145,7 +144,7 @@ The paradigm shift is in the convergence of:
 - Secure and governed by a global access control
 - Domain data cross-functional teams
 
-3. Data and self-serve platform design convergence
+##### Data and self-serve platform design convergence
 The key to building the data infrastructure as a platform is:
 - to not include any domain specific concepts or business logic, keeping it domain agnostic,
 - make sure the platform hides all the underlying complexity and provides the data infrastructure components in a self-service manner.
